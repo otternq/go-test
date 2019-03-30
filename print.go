@@ -1,10 +1,10 @@
 package test
 
 import (
-  "fmt"
+	"fmt"
 )
 
 // Print shows that using my custom domain for go-get works
 func Print() {
-  fmt.Println("Import successful")
+	fmt.Println("Import successful")
 }
